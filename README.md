@@ -12,7 +12,8 @@
   
 ## 📸 Screenshot
 
-![Uploading WhatsApp Görsel 2025-07-06 saat 16.52.11_8ecb3478.jpg…]()
+![WhatsApp Görsel 2025-07-06 saat 16 52 11_9eb67cd6](https://github.com/user-attachments/assets/abc9da29-32e1-49e0-a3d4-5bc70e0dcf09)
+
 
 
 ## 🖥️ Technologies Used
